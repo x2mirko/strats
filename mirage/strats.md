@@ -29,9 +29,13 @@ Und dann nach links strafen, bis man mit dem Fadenkreuz hier ankommt\
 Dann im Laufen Leftclick-Jumpthrow.
 
 #### Blockable
-Einfacher, aber auf höherem Elo schlecht, weil sie mehrmals aufkommt, bevor sie beim Window ankommt und der CT im Window die Smoke sehr einfach blocken kann, wenn er weiß, was er tut.\
+Einfacher, aber auf höherem Elo schlecht, weil sie mehrmals aufkommt, bevor sie beim Window ankommt und der CT im Window die Smoke sehr einfach blocken kann, wenn er weiß, was er tut.
 
 Hier hinstellen:\
 <img src="/mirage/screens/slow_bad_window_position.jpg" width="600"/>\
 und dann ein einfacher Leftclick-Jumpthrow hier:\
 <img src="/mirage/screens/slow_bad_window_lineup.jpg" width="600"/>
+
+### Slow Top-Mid Smoke
+Einfach neben den Mülleimer stellen und ein simpler Leftclick-Throw hier:\
+<img src="/mirage/screens/slow_topmid.jpg" width="600"/>
