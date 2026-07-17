@@ -5,7 +5,7 @@ Es gibt 6 Spawns auf Mirage T-Side, von denen aus man relativ einfach Window- un
 
 | Insta Window | Insta Top-Mid |
 | ----- | ----- |
-| <img src="/mirage/screens/lineups/spawn1_insta_window.jpg" width="600"/> | <img src="/mirage/lineups/screens/spawn1_insta_topmid.jpg" width="600"/> |
+| <img src="/mirage/screens/lineups/spawn1_insta_window.jpg" width="600"/> | <img src="/mirage/screens/lineups/spawn1_insta_topmid.jpg" width="600"/> |
 | <img src="/mirage/screens/lineups/spawn2_insta_window.jpg" width="600"/> | <img src="/mirage/screens/lineups/spawn2_insta_topmid.jpg" width="600"/> |
 | <img src="/mirage/screens/lineups/spawn3_insta_window.jpg" width="600"/> | <img src="/mirage/screens/lineups/spawn3_insta_topmid.jpg" width="600"/> |
 | <img src="/mirage/screens/lineups/spawn4_insta_window.jpg" width="600"/> | <img src="/mirage/screens/lineups/spawn4_insta_topmid.jpg" width="600"/> |
