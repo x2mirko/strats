@@ -36,7 +36,7 @@ Auch in Runden, wo wir "harte" Executes spielen, werfen wir Insta-Smokes für Wi
 <img src="/mirage/screens/strats/a_execute.png" width="800"/>\
 Ablauf:
 - Gelb wirft vom [Türrahmen aus zuerst Jungle, dann Stairs](lineups.md#smokes-vom-türrahmen-vor-a-ramp), wartet ~2 Sekunden und wirft dann zwei [Lantern-Flashes](lineups.md#lantern-flash).
-- Orange wirft sobald Gelb die Junglesmoke wirft die [CT/Firebox-Smoke](lineups.md#ct/firebox-smoke), läuft dann vor, um zusammen mit den anderen rauszugehen und flashed im Laufen mit Jumpthrows Deep auf A Site
+- Orange wirft sobald Gelb die Junglesmoke wirft die [CT/Firebox-Smoke](lineups.md#ct-firebox-smoke), läuft dann vor, um zusammen mit den anderen rauszugehen und flashed im Laufen mit Jumpthrows Deep auf A Site
 - Blau wartet im Palace und flashed zweimal auf Balcony raus, sobald die Flashes von Orange kommen
 - Lila und Grün gehen zusammen raus, sobald die Lantern-Flashes von Gelb kommen. Lila geht direkt nach Apex, Grün wirft den Molo unter Balcony und geht danach Richtung Sandwich vor.
 - Alle gehen dann schnellstmöglich raus und nehmen Raum auf Site ein, pushen CT.
@@ -45,7 +45,7 @@ Ablauf:
 <img src="/mirage/screens/strats/a_split.png" width="800"/>\
 Ablauf:
 - Grün dropped seine Smoke für Gelb hinter den Boxes Top Mid und positioniert sich dann nah am Connector, um von Gelb reingeflashed zu werden
-- Orange wirft die [CT/Firebox-Smoke](lineups.md#ct/firebox-smoke), dropped dann runter und wirft den [Stairs-Molo](lineups.md#ct/smoke-und-molo-von-t-spawn) und wirft dann 2 [Lantern-Flashes](lineups.md#lantern-flash).
+- Orange wirft die [CT/Firebox-Smoke](lineups.md#ct-firebox-smoke), dropped dann runter und wirft den [Stairs-Molo](lineups.md#smoke-und-molo-von-t-spawn) und wirft dann 2 [Lantern-Flashes](lineups.md#lantern-flash).
 - Gelb wirft die [Deep-Jungle](lineups.md#deep-jungle-smoke) und [Short-Smoke](lineups.md#short-smoke) sobald Orange seine Smoke wirft, [flashed dann einmal Deep Site](lineups.md#a-site-flash) und danach [Connector](lineups.md#connector-popflash)
 - Blau wartet im Palace und flashed zweimal auf Balcony raus, sobald die Flash von Gelb kommt.
 - Lila geht raus, sobald die Lantern-Flashes von Orange kommen und wirft den Molo unter Balcony.

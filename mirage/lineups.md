@@ -73,7 +73,7 @@ Wenn man CT und Ticket absmoken möchte, hier in der Mitte der abgeflachten Ecke
 und danach hier einen Leftclick-Jumpthrow:\
 <img src="/mirage/screens/lineups/ctsmoke_lineup.jpg" width="600"/>
 
-## CT/Firebox-Smoke
+## CT-Firebox-Smoke
 Eine Alternative zur "normalen" CT-Smoke, die die meisten Angles (außer auf Ticket) von CT Richtung Rampe verdeckt und außerdem Peeks von Firebox unmöglich macht. Vorteil ist insbesondere, dass man nach dem Take nicht auf A festsitzt, sondern CT einnehmen kann. Hier positionieren:\
 <img src="/mirage/screens/lineups/fireboxsmoke_position.jpg" width="600"/>\
 und danach hier einen Leftclick-Jumpthrow:\
@@ -101,7 +101,7 @@ Leftclick-Throw:\
 Leftclick-Throw:\
 <img src="/mirage/screens/lineups/shortsmoke_lineup.jpg" width="600"/>
 
-### CT/Firebox-Smoke von Top-Mid
+### CT-Firebox-Smoke von Top-Mid
 Leftclick-Jumphrow:\
 <img src="/mirage/screens/lineups/asplit_firebox_lineup.jpg" width="600"/>
 
