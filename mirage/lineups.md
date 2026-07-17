@@ -129,7 +129,7 @@ Und danach hier Leftclick-Jumpthrow:\
 Mit dem Rücken in der Ecke von T-Apps hierhin aimen und Leftclick-Jumpthrow:\
 <img src="/mirage/screens/lineups/b_kitchen_window_lineup.jpg" width="600"/>
 
-### Short Smoke
+### B Short Smoke
 Genau auf dieser Ecke in T-Apps positionieren:\
 <img src="/mirage/screens/lineups/shortsmoke_position.jpg" width="600"/>\
 Und danach hier Middleclick-Jumpthrow:\

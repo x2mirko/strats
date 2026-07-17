@@ -6,7 +6,7 @@ Blau lurked vor A (entweder in Palace oder Rampe), Grün lurked vor B (Apps/Unde
 
 Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#insta-spawns). Wer das tut, wird auf Basis der Spawns abgesprochen. Hat nur einer einen Instant-Spawn (sehr selten), dann wirft die Person Instant Window und jemand anders wirft die [langsame Top-Mid Smoke](lineups.md#slow-top-mid-smoke). Die drei Spieler in Mitte brauchen ihre Smokes am dringendsten, d.h. die Lurker droppen ggfs. ihre Smokes, wenn sie keine Insta-Spawns haben.
 
-Die drei Spieler in der Mitte versuchen die Mitte einzunehmen. Dazu können alle drei über Top-Mid kommen, es kann aber auch mal über Underpass angespielt werden. Um Mitte über Top-Mid einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)). Die drei versuchen gemeinsam, Picks zu bekommen und/oder Connector bzw. Ladderroom einzunehmen. Dabei können die Smokes für Top-Con, Short und Window helfen. Was genau gemacht wird, hängt vom Verlauf der Runde ab. Wir sollten nach einem Pick und insb. bei Verwendung der letzten Smokes schnell klären, ob wir uns weiter Richtung A oder B vorarbeiten wollen und dann auch schnell handeln. 
+Die drei Spieler in der Mitte versuchen die Mitte einzunehmen. Dazu können alle drei über Top-Mid kommen, es kann aber auch mal über Underpass angespielt werden. Um Mitte über Top-Mid einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)). Die drei versuchen gemeinsam, Picks zu bekommen und/oder Connector bzw. Ladderroom einzunehmen. Dabei können die [Smokes für Top-Con, Short und Window helfen](lineups.md#util-von-top-mid). Was genau gemacht wird, hängt vom Verlauf der Runde ab. Wir sollten nach einem Pick und insb. bei Verwendung der letzten Smokes schnell klären, ob wir uns weiter Richtung A oder B vorarbeiten wollen und dann auch schnell handeln. 
 
 Entweder wird über Con und ggfs. mit Boost in Window A eingenommen (Grün kommt über Underpass dazu oder versucht, später B rauszulurken und durch Kitchen einen Backstab zu bekommen) oder es wird Con abgesmoked und ein B-Split gespielt (Blau versucht dann ein Timing auf A zu bekommen).
 
@@ -35,8 +35,8 @@ Auch in Runden, wo wir "harte" Executes spielen, werfen wir Insta-Smokes für Wi
 ### A Execute
 <img src="/mirage/screens/strats/a_execute.png" width="800"/>\
 Ablauf:
-- Gelb wirft vom Türrahmen aus zuerst Jungle, dann Stairs, wartet ~2 Sekunden und wirft dann zwei Lantern-Flashes
-- Orange wirft sobald Gelb die Junglesmoke wirft die CT/Firebox-Smoke, läuft dann vor, um zusammen mit den anderen rauszugehen und flashed im Laufen mit Jumpthrows Deep auf A Site
+- Gelb wirft vom [Türrahmen aus zuerst Jungle, dann Stairs](lineups.md#smokes-vom-türrahmen-vor-a-ramp), wartet ~2 Sekunden und wirft dann zwei [Lantern-Flashes](lineups.md#lantern-flash).
+- Orange wirft sobald Gelb die Junglesmoke wirft die [CT/Firebox-Smoke](lineups.md#ct/firebox-smoke), läuft dann vor, um zusammen mit den anderen rauszugehen und flashed im Laufen mit Jumpthrows Deep auf A Site
 - Blau wartet im Palace und flashed zweimal auf Balcony raus, sobald die Flashes von Orange kommen
 - Lila und Grün gehen zusammen raus, sobald die Lantern-Flashes von Gelb kommen. Lila geht direkt nach Apex, Grün wirft den Molo unter Balcony und geht danach Richtung Sandwich vor.
 - Alle gehen dann schnellstmöglich raus und nehmen Raum auf Site ein, pushen CT.
@@ -45,8 +45,8 @@ Ablauf:
 <img src="/mirage/screens/strats/a_split.png" width="800"/>\
 Ablauf:
 - Grün dropped seine Smoke für Gelb hinter den Boxes Top Mid und positioniert sich dann nah am Connector, um von Gelb reingeflashed zu werden
-- Orange wirft die CT/Firebox-Smoke, dropped dann runter und wirft den Stairs-Molo und wirft dann 2 Lantern-Flashes
-- Gelb wirft die Deep-Jungle und Short-Smoke sobald Orange seine Smoke wirft, flashed dann einmal Deep Site und danach Connector
+- Orange wirft die [CT/Firebox-Smoke](lineups.md#ct/firebox-smoke), dropped dann runter und wirft den [Stairs-Molo](lineups.md#ct/smoke-und-molo-von-t-spawn) und wirft dann 2 [Lantern-Flashes](lineups.md#lantern-flash).
+- Gelb wirft die [Deep-Jungle](lineups.md#deep-jungle-smoke) und [Short-Smoke](lineups.md#short-smoke) sobald Orange seine Smoke wirft, [flashed dann einmal Deep Site](lineups.md#a-site-flash) und danach [Connector](lineups.md#connector-popflash)
 - Blau wartet im Palace und flashed zweimal auf Balcony raus, sobald die Flash von Gelb kommt.
 - Lila geht raus, sobald die Lantern-Flashes von Orange kommen und wirft den Molo unter Balcony.
 - Alle gehen dann schnellstmöglich raus und nehmen Raum auf Site ein, pushen CT.
@@ -54,8 +54,8 @@ Ablauf:
 ### B Execute
 <img src="/mirage/screens/strats/b_execute.png" width="800"/>\
 Ablauf:
-- Gelb wirft die Smokes für Kitchen Door und Kitchen Window und flashed über Apps auf B raus
-- Orange wirft die Smoke für Short, nachdem Gelb die zweite Smoke geworfen hat und flashed dann ebenfalls über Apps auf B raus.
+- Gelb wirft die Smokes für [Kitchen Door](lineups.md#kitchen-door-smoke) und [Kitchen Window](lineups.md#kitchen-window-smoke) und flashed über Apps auf B raus
+- Orange wirft die [Smoke für Short](lineups.md#b-short-smoke), nachdem Gelb die zweite Smoke geworfen hat und flashed dann ebenfalls über Apps auf B raus.
 - Sobald die Smoke von Orange geworfen wurde, laufen Grün, Blau und Lila raus.
 - Grün bounced flashes aus den Fenstern, springt aus dem Fenster und cleared Edward
 - Lila wirft den Car-Molo und springt hinter Grün aus dem Fenster
