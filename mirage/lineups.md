@@ -125,7 +125,7 @@ Leftclick-Throw:\
 
 ### Short Smoke
 Leftclick-Throw:\
-<img src="/mirage/screens/lineups/shortsmoke_lineup.jpg" width="600"/>
+<img src="/mirage/screens/lineups/short_lineup.jpg" width="600"/>
 
 ### CT-Firebox-Smoke von Top-Mid
 Leftclick-Jumphrow:\
