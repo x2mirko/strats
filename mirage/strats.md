@@ -1,8 +1,6 @@
-# Strats
+# T Side
 
-## T Side
-
-### Default
+## Default
 <img src="/mirage/screens/strats/t_default.png" width="800"/>\
 <font color="blue">Blau</font> lurked vor A (entweder in Palace oder Rampe), <font color="green">Grün</font> lurked vor B (Apps/Underpass). Die anderen drei Spieler nehmen zusammen Mitte ein.
 
@@ -10,13 +8,13 @@ Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#in
 
 Um Mitte einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)) und sie versuchen gemeinsam, Picks zu bekommen und/oder Connector einzunehmen. Dabei können die Smokes für Top-Con, Short und Window helfen. Was genau gemacht wird, hängt vom Verlauf der Runde ab. Es sollte nach einem Pick und insb. bei Verwendung der letzten Smokes schnell geklärt werden, ob man sich weiter Richtung A oder B vorarbeiten möchte und dann auch schnell handeln. Entweder wird über Con und ggfs. mit Boost in Window A eingenommen (<font color="green">Grün</font> kommt über Underpass dazu oder versucht, später B rauszulurken und durch Kitchen einen Backstab zu bekommen) oder es wird Con abgesmoked und ein B-Split gespielt (<font color="blue">Blau</font> versucht dann ein Timing auf A zu bekommen)
 
-### Pistol
+## Pistol
 
-### Executes
+## Executes
 
 Auch in Runden, wo wir "harte" Executes spielen, werfen wir Insta-Smokes für Window und Top-Mid, um es nicht offensichtlich zu machen, dass wir einen Execute spielen - und, weil es für den A-Split beim Setup auch nötig ist, die Smokes zu haben.
 
-#### A Execute
+### A Execute
 <img src="/mirage/screens/strats/a_execute.png" width="800"/>\
 Ablauf:
 - <font color="yellow">Gelb</font> wirft vom Türrahmen aus zuerst Jungle, dann Stairs, wartet ~2 Sekunden und wirft dann zwei Lantern-Flashes
@@ -25,7 +23,7 @@ Ablauf:
 - <font color="purple">Lila</font> und <font color="green">Grün</font> gehen zusammen raus, sobald die Lantern-Flashes von <font color="yellow">Gelb</font> kommen. <font color="purple">Lila</font> geht direkt nach Apex, <font color="green">Grün</font> wirft den Molo unter Balcony und geht danach Richtung Sandwich vor.
 - Alle gehen dann schnellstmöglich raus und nehmen Raum auf Site ein, pushen CT.
 
-#### A Split
+### A Split
 <img src="/mirage/screens/strats/a_split.png" width="800"/>\
 Ablauf:
 - <font color="green">Grün</font> dropped seine Smoke für <font color="yellow">Gelb</font> hinter den Boxes Top Mid und positioniert sich dann nah am Connector, um von <font color="yellow">Gelb</font> reingeflashed zu werden
@@ -35,7 +33,7 @@ Ablauf:
 - <font color="purple">Lila</font> geht raus, sobald die Lantern-Flashes von <font color="orange">Orange</font> kommen und wirft den Molo unter Balcony.
 - Alle gehen dann schnellstmöglich raus und nehmen Raum auf Site ein, pushen CT.
 
-#### B Execute
+### B Execute
 <img src="/mirage/screens/strats/b_execute.png" width="800"/>\
 Ablauf:
 - <font color="yellow">Gelb</font> wirft die Smokes für Kitchen Door und Kitchen Window und flashed über Apps auf B raus
@@ -46,11 +44,11 @@ Ablauf:
 - <font color="yellow">Gelb</font> und <font color="blue">Blau</font> gehen über Balcony raus
 - <font color="orange">Orange</font> bleibt in Apps
 
-## CT Side
+# CT Side
 
-### Default
+## Default
 <img src="/mirage/screens/strats/ct_default.png" width="800"/>\
 Die Grundlagen sollten allen klar sein. Genaueres sprechen wir ab.
 
-### B Apps Info Push (Force?)
+## B Apps Info Push (Force?)
 Eine clevere Strategie von Magic, wenn man sich nicht sicher ist, ob man forcen sollte oder nicht: Vier bleiben im Spawn stehen, während einer B Apps durchrushed. Findet er dort niemanden, forcen die 4 im Spawn und stacken A. Sonst full eco und kaufen in der nächsten.
