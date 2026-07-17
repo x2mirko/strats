@@ -4,11 +4,29 @@
 <img src="/mirage/screens/strats/t_default.png" width="800"/>\
 Blau lurked vor A (entweder in Palace oder Rampe), Grün lurked vor B (Apps/Underpass). Die anderen drei Spieler nehmen zusammen Mitte ein.
 
-Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#insta-spawns). Wer das tut, wird auf Basis der Spawns abgesprochen. Hat nur einer einen Instant-Spawn (sehr selten), dann wirft die Person Instant Window und jemand anders wirft die [langsame Top-Mid Smoke](lineups.md#slow-top-mid-smoke). Die drei Spieler in Mitte brauchen ihre Smokes, d.h. die Lurker droppen ggfs. ihre Smokes, wenn sie keine Insta-Spawns haben.
+Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#insta-spawns). Wer das tut, wird auf Basis der Spawns abgesprochen. Hat nur einer einen Instant-Spawn (sehr selten), dann wirft die Person Instant Window und jemand anders wirft die [langsame Top-Mid Smoke](lineups.md#slow-top-mid-smoke). Die drei Spieler in Mitte brauchen ihre Smokes am dringendsten, d.h. die Lurker droppen ggfs. ihre Smokes, wenn sie keine Insta-Spawns haben.
 
-Um Mitte einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)) und sie versuchen gemeinsam, Picks zu bekommen und/oder Connector einzunehmen. Dabei können die Smokes für Top-Con, Short und Window helfen. Was genau gemacht wird, hängt vom Verlauf der Runde ab. Es sollte nach einem Pick und insb. bei Verwendung der letzten Smokes schnell geklärt werden, ob man sich weiter Richtung A oder B vorarbeiten möchte und dann auch schnell handeln. Entweder wird über Con und ggfs. mit Boost in Window A eingenommen (Grün kommt über Underpass dazu oder versucht, später B rauszulurken und durch Kitchen einen Backstab zu bekommen) oder es wird Con abgesmoked und ein B-Split gespielt (Blau versucht dann ein Timing auf A zu bekommen)
+Die drei Spieler in der Mitte versuchen die Mitte einzunehmen. Dazu können alle drei über Top-Mid kommen, es kann aber auch mal über Underpass angespielt werden. Um Mitte über Top-Mid einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)). Die drei versuchen gemeinsam, Picks zu bekommen und/oder Connector bzw. Ladderroom einzunehmen. Dabei können die Smokes für Top-Con, Short und Window helfen. Was genau gemacht wird, hängt vom Verlauf der Runde ab. Wir sollten nach einem Pick und insb. bei Verwendung der letzten Smokes schnell klären, ob wir uns weiter Richtung A oder B vorarbeiten wollen und dann auch schnell handeln. 
+
+Entweder wird über Con und ggfs. mit Boost in Window A eingenommen (Grün kommt über Underpass dazu oder versucht, später B rauszulurken und durch Kitchen einen Backstab zu bekommen) oder es wird Con abgesmoked und ein B-Split gespielt (Blau versucht dann ein Timing auf A zu bekommen).
 
 ## Pistol
+
+### Fake Short Push
+<img src="/mirage/screens/strats/pistol_fake_short_rush.png" width="800"/>\
+- Buys:
+    - Orange: Smoke + Flash + Flash
+    - Blau: Smoke + Flash + (dualies / p250)
+    - Gelb: Smoke + x (molo?)
+    - Lila: Armor
+    - Grün: Armor
+- Ablauf:
+    - Instant Smoke für Window und [Smoke für Connector](lineups.md#connector-von-spawn) werfen.
+    - Blau wartet in Palace ab, Orange und Gelb halten defensiv Rampe
+    - Lila und Grün rushen Catwalk. Falls der CT Short vorkommt, versuchen, das 2 on 1 zu gewinnen.
+    - Sobald Lila und Grün auf Höhe von Ladderroom angekommen sind, wirft Orange die CT smoke und ~2 Sekunden später zwei Lantern-Flashes
+    - Mit den Flashes flashed auch Blau aus Palace raus. Orange, Gelb und Blau rushen A
+    - Lila und Grün springen von Catwalk runter und laufen durch die Consmoke durch, nehmen Jungle ein und versuchen, die CTs auf Rotation zu killen.
 
 ## Executes
 
@@ -48,7 +66,7 @@ Ablauf:
 
 ## Default
 <img src="/mirage/screens/strats/ct_default.png" width="800"/>\
-Die Grundlagen sollten allen klar sein. Genaueres sprechen wir ab.
+Die Grundlagen sollten allen klar sein. Genaueres sprechen wir noch ab bzw. klären die einzelnen Spieler untereinander.
 
 ## B Apps Info Push (Force?)
 Eine clevere Strategie von Magic, wenn man sich nicht sicher ist, ob man forcen sollte oder nicht: Vier bleiben im Spawn stehen, während einer B Apps durchrushed. Findet er dort niemanden, forcen die 4 im Spawn und stacken A. Sonst full eco und kaufen in der nächsten.
