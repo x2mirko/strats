@@ -6,7 +6,9 @@ Blau lurked vor A (entweder in Palace oder Rampe), Grün lurked vor B (Apps/Unde
 
 Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#insta-spawns). Wer das tut, wird auf Basis der Spawns abgesprochen. Hat nur einer einen Instant-Spawn (sehr selten), dann wirft die Person Instant Window und jemand anders wirft die [langsame Top-Mid Smoke](lineups.md#slow-top-mid-smoke). Die drei Spieler in Mitte brauchen ihre Smokes am dringendsten, d.h. die Lurker droppen ggfs. ihre Smokes, wenn sie keine Insta-Spawns haben.
 
-Die drei Spieler in der Mitte versuchen die Mitte einzunehmen. Dazu können alle drei über Top-Mid kommen, es kann aber auch mal über Underpass angespielt werden. Um Mitte über Top-Mid einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)). Die drei versuchen gemeinsam, Picks zu bekommen und/oder Connector bzw. Ladderroom einzunehmen. Dabei können die [Smokes für Top-Con, Short und Window helfen](lineups.md#util-von-top-mid). Was genau gemacht wird, hängt vom Verlauf der Runde ab. Wir sollten nach einem Pick und insb. bei Verwendung der letzten Smokes schnell klären, ob wir uns weiter Richtung A oder B vorarbeiten wollen und dann auch schnell handeln. 
+Die drei Spieler in der Mitte versuchen die Mitte einzunehmen. Dazu können alle drei über Top-Mid kommen, es kann aber auch über Underpass angespielt werden. Um Mitte über Top-Mid einzunehmen, flashed einer der drei Spieler [durch die Top-Mid Smoke](lineups.md#popflash-in-top-mid-smoke)). Auch ein Molo in Con oder under Window (um den CT Peek Richtung underpass zu denien) kann sehr sinnvoll sein und kann aus dem Schutz der Top-Mid Smoke geworfen werden. Gleiches gilt für einen Molo nach Short, der sich aber vor allem dann lohnt, wenn die CTs sehr konsistent Mid contesten. 
+
+Die drei Mittespieler versuchen gemeinsam, Picks zu bekommen und/oder Connector bzw. Ladderroom einzunehmen. Dabei können die [Smokes für Top-Con, Short und Window helfen](lineups.md#util-von-top-mid). Was genau gemacht wird, hängt vom Verlauf der Runde ab. Wir sollten nach einem Pick und insb. bei Verwendung der letzten Smokes schnell klären, ob wir uns weiter Richtung A oder B vorarbeiten wollen und dann auch schnell handeln. 
 
 Entweder wird über Con und ggfs. mit Boost in Window A eingenommen (Grün kommt über Underpass dazu oder versucht, später B rauszulurken und durch Kitchen einen Backstab zu bekommen) oder es wird Con abgesmoked und ein B-Split gespielt (Blau versucht dann ein Timing auf A zu bekommen).
 
@@ -57,8 +59,8 @@ Ablauf:
 - Gelb wirft die Smokes für [Kitchen Door](lineups.md#kitchen-door-smoke) und [Kitchen Window](lineups.md#kitchen-window-smoke) und flashed über Apps auf B raus
 - Orange wirft die [Smoke für Short](lineups.md#b-short-smoke), nachdem Gelb die zweite Smoke geworfen hat und flashed dann ebenfalls über Apps auf B raus.
 - Sobald die Smoke von Orange geworfen wurde, laufen Grün, Blau und Lila raus.
-- Grün bounced flashes aus den Fenstern, springt aus dem Fenster und cleared Edward
-- Lila wirft den Car-Molo und springt hinter Grün aus dem Fenster
+- Grün bounced flashes aus den Fenstern, springt aus dem Fenster, cleared Edward und Short und nimmt dann aggressiv Space auf B in Richtung Kitchen Window ein
+- Lila wirft den Car-Molo und springt hinter Grün aus dem Fenster und folgt dem gleichen Pathing (um Traden zu können)
 - Gelb und Blau gehen über Balcony raus
 - Orange bleibt in Apps
 
