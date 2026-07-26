@@ -33,6 +33,14 @@ Die Situation am Ende: Beide können am Kampf teilnehmen und blockieren sich nic
 
 <img src="/teamwork/screens/take_space_4.jpg" width="800"/>
 
+### Calls für die Koordination
+
+Es gibt natürlich auch Situationen, in denen man nicht nacheinander vorgehen möchte, sondern sich direkt gemeinsam vorwärts bewegt. Dabei ist es dann besonders wichtig, dass der Hintermann kommuniziert, was der Vordermann tun soll:
+
+- "Halt": Bleib einfach stehen, wo du bist
+- "Weiter": Weiter vorgehen
+- "Warte": Nur kurz W loslassen, dann direkt weitergehen. Sinnvoll, wenn der Abstand zu groß geworden ist.
+
 ## Wichtige Calls
 
 Ein paar Calls, die wir häufiger verwenden sollten, um uns in manchen Situationen zu koordinieren.
