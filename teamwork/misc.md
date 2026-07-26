@@ -17,21 +17,21 @@ Je nach Angle, die es zu clearen gilt, haben die beiden Rollen unterschiedliche 
 
 Hier spielen wir die Situation mal am Beispiel von Inferno Banane durch:
 
-<img src="/teammwork/screens/take_space_1.png" width="800"/>
+<img src="/teamwork/screens/take_space_1.png" width="800"/>
 
 Die beiden Ts wollen zusammen Banane einnehmen. Es bietet sich an, dass der Hintermann zuerst die Angle an Halfwall hält, während der Vordermann vorgeht. Wenn genügend Zeit ist, ist es an der Stelle eine gute Idee für den Vordermann, sich im Crouchwalk vorzubewegen, sodass er zu jedem Zeitpunkt schießen kann (ohne Rückwärts Counterstrafen zu müssen). Dabei sollte er immer rechts von der Sichtlinie vom Hintermann bleiben und bereit sein, zu swingen, falls ein CT den Hintermann peekt.
 
-<img src="/teammwork/screens/take_space_2.png" width="800"/>
+<img src="/teamwork/screens/take_space_2.png" width="800"/>
 
 Ist der Vordermann an der Halfwall angekommen, so sollte der Hintermann callen, dass er jetzt vorkommt (in dieser Situation ggfs. übertrieben, weil eh klar - in anderen Szenarien kann das relevanter sein). Der Vordermann sollte einfach nur die Angle halten und weiter bereit sein, zu swingen. 
 
 Sobald der Hintermann sich weit genug vorbewegt hat, sollte er in kleinen Schritten weiter nach links steppen, um Off-Angles zu clearen. Wie genau Halfwall gecleared werden sollte, kommt natürlich auf die Situation an: Wenn man annimmt, dass dort eine AWP steht (könnte man Jumpspotten, aber will man ggfs. bei einem Contactplay nicht), sollte der Vordermann zuerst Wideswingen, um den Schuss zu ziehen und der Hintermann dann in die Angle steppen. Rechnet man nicht mit einer AWP, kann es auch durchaus sinnvoll sein, dass der Hintermann zuerst peekt und der Vordermann nur wide swinged, falls der Hintermann stirbt.
 
-<img src="/teammwork/screens/take_space_3.png" width="800"/>
+<img src="/teamwork/screens/take_space_3.png" width="800"/>
 
 Die Situation am Ende: Beide können am Kampf teilnehmen und blockieren sich nicht gegenseitig:
 
-<img src="/teammwork/screens/take_space_4.png" width="800"/>
+<img src="/teamwork/screens/take_space_4.png" width="800"/>
 
 ## Wichtige Calls
 
