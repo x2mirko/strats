@@ -228,6 +228,6 @@ Leftclick-Jumpthrow hier:\
 ## Molo Dark von Palace
 Ein Lineup, mit dem alles in Dark (auch CTs auf den Boxen) brennt und das man auch werfen kann, wenn Palace gesmoked ist. Zuerst hier positionieren:\
 <img src="/mirage/screens/lineups/dark_molo_position.jpg" width="600"/>\
-Dann hierhin aimen (Achtung: leicht über dem Punkt, wo die ):\
+Dann hierhin aimen (Achtung: leicht über der dunkleren Leiste, nicht genau auf dem Schnittpunkt!):\
 <img src="/mirage/screens/lineups/dark_molo_lineup.jpg" width="600"/>\
 Danach einfach A+S gedrückt halten (also rückwärts nach links laufen, bis man in der Ecke im Palace-Eingang "festhängt") und während man die Tasten weiter gedrückt hält, einen Leftclick-Throw machen.
