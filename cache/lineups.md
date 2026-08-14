@@ -15,6 +15,7 @@
  - [B](#b)
   - [Lurksmoke B Main](#lurksmoke-b-main)
   - [Checkers Molo](#checkers-molo)
+  - [B Heaven Smoke](#b-heaven-smoke)
   - [B-Exec-Utilset](#b-exec-utilset)
    - [Smoke Tree](#smoke-tree)
    - [Molo Headshot](#molo-headshot)
