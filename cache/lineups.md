@@ -1,4 +1,33 @@
 # Lineups
+- [T-Side](#t-side)
+ - [Mid](#mid)
+  - [Smoke Connector](#smoke-connector)
+  - [Criss Cross Smokes](#criss-cross-smokes)
+  - [Smoke Boost (Anti-Molo)](#smoke-boost-anti-molo)
+  - [Resmoke Connector](#resmoke-connector)
+  - [Molo Sandbags](#molo-sandbags)
+  - [Molo Highway](#molo-highway)
+ - [A](#a)
+  - [Smoke Cross](#smoke-cross)
+  - [Smokewall Heaven/E-Box](#smokewall-heaven-e-box)
+  - [Popflash A-Main](#popflash-a-main)
+  - [Highway Smoke](#highway-smoke)
+ - [B](#b)
+  - [Lurksmoke B Main](#lurksmoke-b-main)
+  - [Checkers Molo](#checkers-molo)
+  - [B-Exec-Utilset](#b-exec-utilset)
+   - [Smoke Tree](#smoke-tree)
+   - [Molo Headshot](#molo-headshot)
+   - [Molo Default](#molo-default)
+   - [Popflash Site](#popflash-site)
+- [CT-Side](#ct-side)
+ - [Mid](#mid-1)
+  - [Smoke Garage](#smoke-garage)
+  - [Molo Boost](#molo-boost)
+ - [A](#a-1)
+  - [Smoke A Main](#smoke-a-main)
+ - [B](#b-1)
+  - [Smoke B Main](#smoke-b-main)
 
 ## T-Side
 
@@ -62,7 +91,7 @@ Und dann hierhin zielen und Leftclick-Jumpthrow:\
 <img src="/cache/screens/lineups/a_popflash_lineup.jpg" width="600"/>
 
 #### Highway Smoke
-Möchte man, nachdem man initial Midcontrol hat, nicht Highway hoch, sondern durch Connector Richtung CT / B aufbauen, kann es nützlich sein, Highway abzusmoken. Dafür hier positionieren:\
+Möchte man, nachdem man initial Midcontrol hat, nicht Highway hoch, sondern durch Connector Richtung CT / B aufbauen, kann es nützlich sein, Highway abzusmoken. Dafür hier am Baum in Trash/Useless positionieren:\
 <img src="/cache/screens/lineups/highway_smoke_position.jpg" width="600"/>\
 Und dann hierhin zielen und dann W-Leftclick-Jumpthrow:\
 <img src="/cache/screens/lineups/highway_smoke_lineup.jpg" width="600"/>
@@ -77,6 +106,12 @@ Und dann hierhin zielen, loslaufen und Running-Leftclickthrow:\
 #### Checkers Molo
 Nachdem man die Lurksmoke geworfen hat, kann man diesen Molo in den Eingang von Checkers werfen, um sich dort hinter der Smoke sicher vorarbeiten zu können. Hierhin zielen und Leftclick-Throw:\
 <img src="/cache/screens/lineups/checkers_molo_lineup.jpg" width="600"/>
+
+#### B Heaven Smoke
+Es gibt sehr wenige gute konsistente Lineups für eine Heavensmoke auf B. In vielen Fällen braucht man auch keine Smoke, weil man mit Popflashes arbeiten kann und dann relativ schnell unter Heaven scalen kann, sodass die CTs aus Heaven keine guten Angles haben. Es gibt aber eine konsistente Heavensmoke aus Trash/Useless. Hier positionieren:\
+<img src="/cache/screens/lineups/b_heaven_smoke_position.jpg" width="600"/>\
+und dann hierher zielen (an -2y orientieren) und ein Leftclick-Jumpthrow:\
+<img src="/cache/screens/lineups/b_heaven_smoke_lineup.jpg" width="600"/>
 
 #### B-Exec-Utilset
 Ein Utilset für B-Executes, das komplett von dieser Position geworfen wird:\
