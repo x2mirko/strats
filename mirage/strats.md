@@ -2,6 +2,11 @@
 
 ## Default
 <img src="/mirage/screens/strats/t_default.png" width="800"/>\
+
+- Mitte: Mirko & Ivo & Flo
+- A Lurk: Max
+- B Lurk: Jonas
+
 Blau lurked vor A (entweder in Palace oder Rampe), Grün lurked vor B (Apps/Underpass). Die anderen drei Spieler nehmen zusammen Mitte ein.
 
 Wir werfen zu Beginn der Runde [Instant Window und Top-Mid Smokes](lineups.md#insta-spawns). Wer das tut, wird auf Basis der Spawns abgesprochen. Hat nur einer einen Instant-Spawn (sehr selten), dann wirft die Person Instant Window und jemand anders wirft die [langsame Top-Mid Smoke](lineups.md#slow-top-mid-smoke). Die drei Spieler in Mitte brauchen ihre Smokes am dringendsten, d.h. die Lurker droppen ggfs. ihre Smokes, wenn sie keine Insta-Spawns haben.
@@ -68,6 +73,13 @@ Ablauf:
 
 ## Default
 <img src="/mirage/screens/strats/ct_default.png" width="800"/>\
+
+- Window: Ivo
+- Connector: Mirko
+- B Short: Jonas
+- B Anchor: Flo
+- A Anchor: Max
+
 Die Grundlagen sollten allen klar sein. Genaueres sprechen wir noch ab bzw. klären die einzelnen Spieler untereinander.
 
 ## B Apps Info Push (Force?)
