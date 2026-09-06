@@ -138,6 +138,15 @@ Popflash für Site, die alle CTs auf Site und in Heaven blendet, aber hinter der
 ## CT-Side
 
 ### Mid
+
+#### Insta Mid Garage Smokes
+Es gibt vier Spawns, von denen aus man Instant Smokes werfen kann. Dafür an die jeweils gezeigte Stelle zielen und dann nach rechts aus dem Spawn strafen, ein paar Schritte nach vorn Laufen und dann im Laufen einen Running Leftclick Throw machen:
+
+| <img src="/cache/screens/lineups/insta_mid_spawn_1.jpg" width="600"/> |
+| <img src="/cache/screens/lineups/insta_mid_spawn_2.jpg" width="600"/> |
+| <img src="/cache/screens/lineups/insta_mid_spawn_3.jpg" width="600"/> |
+| <img src="/cache/screens/lineups/insta_mid_spawn_4.jpg" width="600"/> | 
+
 #### Smoke Garage
 Default-Smoke, die man in der Mitte jede Runde werfen sollte. Hierhin zielen und Running Leftclick-Throw:\
 <img src="/cache/screens/lineups/garage_smoke_lineup.jpg" width="600"/>
