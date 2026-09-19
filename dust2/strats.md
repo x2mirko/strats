@@ -42,17 +42,10 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 
 ### Insta A-Split
 
-- Insta A-Split:
-
-Die Orange,Blau und Grün haben Long Top Spawn und gehen Long heraus. Orange wirf eine Rechtsklick-Smoke, um den CT-Long-Doors-Molotov zu verhindern.
-
-Lila Smoked Mid doors und Flashed Gelb Short um Short einzunehmen.
-
-Der Grün flasht Orange und Blau auf Long raus.
-
-Wenn der Raum bis Pit eingenommen ist, hält ein Orange die Corner, während Blau den Car-Molotov schmeißt und Grün die CT-Smoke.
-
- 
+- Die Orange,Blau und Grün haben Long Top Spawn und gehen Long heraus. Orange wirf eine Rechtsklick-Smoke, um den CT-Long-Doors-Molotov zu verhindern.- 
+- Lila Smoked Mid doors und Flashed Gelb Short um Short einzunehmen.
+- Grün flasht Orange und Blau auf Long raus.
+- Wenn der Raum bis Pit eingenommen ist, hält ein Orange die Corner, während Blau den Car-Molotov schmeißt und Grün die CT-Smoke.
 
 # CT Side
 
