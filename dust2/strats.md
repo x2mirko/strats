@@ -26,7 +26,20 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 - Gelb wirft, während die zweite Smoke fliegt, 2x Flashbangs rechts über das Dach, um die Site zu flashen.
 - Lila wirft links hinter die Mauer die Flash, sobald die zweite Smoke aufgeht, und den Molotov auf die Rampe.
 
+### Default into B-Split
 
+<img src="/dust2/screens/strats/B_Split_Bild_1.png" width="800"/>
+
+- Gelb in Lower Tunnel resmoked Mid Doors und rotiert hoch zum B-Lurk-Spieler. Währenddessen rotiert Grün zur Xbox in der Mitte, um die Mid-to-B-Smoke zu schmeißen und herauszuflashen. Orange und Lila ziehen sich von Short zurrück und positionieren sich vor der Mid doors links bevor die Mitte Smoke faded.
+
+<img src="/dust2/screens/strats/B_Split_Bild_2.png" width="800"/>
+
+- Kurz bevor die Mid-Smoke faded, wirft Grün an der Xbox die CT-Smoke und flasht die anderen Orange und Lila in der Mitte heraus.
+
+<img src="/dust2/screens/strats/B_Split_Bild_3.png" width="800"/>
+
+- Sobald die Rampe zu B eingenommen ist, flashed Blau B-site und Gelb wirft bevor er Raus lurked einen Molotov auf Plateau.
+ 
 
 # CT Side
 
