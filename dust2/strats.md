@@ -18,6 +18,16 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 ## Executes
 ???
 
+### A-Short Execute
+
+<img src="/dust2/screens/strats/Short_Execute.png" width="800"/>
+
+- Blau wirft die beiden Lurk-Smokes, um von Short weiter auf die Site vorzudringen.
+- Gelb wirft, während die zweite Smoke fliegt, 2x Flashbangs rechts über das Dach, um die Site zu flashen.
+- Lila wirft links hinter die Mauer die Flash, sobald die zweite Smoke aufgeht, und den Molotov auf die Rampe.
+
+
+
 # CT Side
 
 ## Default
@@ -30,3 +40,4 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 - A Long: Jonas
 
 Die Grundlagen sollten allen klar sein. Genaueres sprechen wir noch ab bzw. klären die einzelnen Spieler untereinander.
+
