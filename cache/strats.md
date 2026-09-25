@@ -3,9 +3,9 @@
 ## Default
 <img src="/cache/screens/strats/t_default.png" width="800"/>\
 
-- Mitte: Ivo, Jonas, Flo
+- Mitte: Ivo, Mirko, Flo
 - A Lurk: Max
-- B Lurk: Mirko
+- B Lurk: Jonas
 
 Blau lurked vor B und wirft die [B-Main-Lurksmoke](lineups.md#lurksmoke-b-main) und den [Checkers-Molo](lineups.md#checkers-molo) mit dem Ziel, sich in Checkers vorzuarbeiten. Grün lurked vor A (gewöhnlich in A-Main), um Pushes der CTs abzufangen und später, falls Mitte eingenommen wurde und Highway angespielt wird, die Infos der Teammates zu nutzen, um einfache Picks auf A zu bekommen (wenn CTs von A Site aus gegen Highway fighten, müssen sie ihre Position preisgeben, Grün kann dann aus A Main heraus einfache Kills holen).
 

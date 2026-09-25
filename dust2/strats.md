@@ -18,6 +18,35 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 ## Executes
 ???
 
+### A-Short Execute
+
+<img src="/dust2/screens/strats/Short_Execute.png" width="800"/>
+
+- Blau wirft die beiden Lurk-Smokes, um von Short weiter auf die Site vorzudringen.
+- Gelb wirft, während die zweite Smoke fliegt, 2x Flashbangs rechts über das Dach, um die Site zu flashen.
+- Lila wirft links hinter die Mauer die Flash, sobald die zweite Smoke aufgeht, und den Molotov auf die Rampe.
+
+### Default into B-Split
+
+<img src="/dust2/screens/strats/B_Split_Bild_1.png" width="800"/>
+
+- Gelb in Lower Tunnel resmoked Mid Doors und rotiert hoch zum B-Lurk-Spieler. Währenddessen rotiert Grün zur Xbox in der Mitte, um die Mid-to-B-Smoke zu schmeißen und herauszuflashen. Orange und Lila ziehen sich von Short zurrück und positionieren sich vor der Mid doors links bevor die Mitte Smoke faded.
+
+<img src="/dust2/screens/strats/B_Split_Bild_2.png" width="800"/>
+
+- Kurz bevor die Mid-Smoke faded, wirft Grün an der Xbox die CT-Smoke und flasht die anderen Orange und Lila in der Mitte heraus.
+
+<img src="/dust2/screens/strats/B_Split_Bild_3.png" width="800"/>
+
+- Sobald die Rampe zu B eingenommen ist, flashed Blau B-site und Gelb wirft bevor er Raus lurked einen Molotov auf Plateau.
+
+### Insta A-Split
+
+- Die Orange,Blau und Grün haben Long Top Spawn und gehen Long heraus. Orange wirf eine Rechtsklick-Smoke, um den CT-Long-Doors-Molotov zu verhindern.- 
+- Lila Smoked Mid doors und Flashed Gelb Short um Short einzunehmen.
+- Grün flasht Orange und Blau auf Long raus.
+- Wenn der Raum bis Pit eingenommen ist, hält ein Orange die Corner, während Blau den Car-Molotov schmeißt und Grün die CT-Smoke.
+
 # CT Side
 
 ## Default
@@ -30,3 +59,4 @@ Lila und Grün nehmen zuerst zusammen Lower Tunnels ein, danach unterstützt Gr�
 - A Long: Jonas
 
 Die Grundlagen sollten allen klar sein. Genaueres sprechen wir noch ab bzw. klären die einzelnen Spieler untereinander.
+
