@@ -19,11 +19,11 @@ Wie es danach weiter geht, entscheiden wir je nach Verlauf der Runde.
 ### A Split
 <img src="/ancient/screens/strats/t_pistol.png" width="800"/>\
 - Buys:
-    - Orange: Molo + Flash + Flash (drop an Grün)
-    - Blau: Smoke (Highway) + ???
-    - Gelb: Armor
-    - Lila: Smoke (Insta Red) + P250 + Flash
-    - Grün: Smoke (CT) + Flash + dualies (drop an Gelb)
+    - Orange (Ivo): Molo + Flash + Flash (drop an Grün)
+    - Blau (Jonas): Smoke (Highway) + ???
+    - Gelb (Max): Armor
+    - Lila (Mirko): Smoke (Insta Red) + P250 + Flash
+    - Grün (Flo): Smoke (CT) + Flash + dualies (drop an Gelb)
 - Ablauf:
     - Lila wirft die Instant Smoke für Red
     - Blau wirft die Smoke für Highway
